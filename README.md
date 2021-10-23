@@ -1,0 +1,2 @@
+# yuni
+Kecerdasan buatan
